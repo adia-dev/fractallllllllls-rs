@@ -35,11 +35,3 @@ cargo run
 ```
 
 The images will be generated in the root directory of the project.
-
-## Contributing
-
-Feel free to fork this project and contribute by adding new features or improving the existing codebase. Pull requests are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
